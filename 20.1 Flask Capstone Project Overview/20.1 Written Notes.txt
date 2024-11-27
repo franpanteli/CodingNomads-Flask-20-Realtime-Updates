@@ -1,0 +1,44 @@
+-> Welcome to the Capstone Project section
+	-> Congratulations on making it here after completing the course modules and labs
+	-> This is your opportunity to build your best Flask project yet
+
+-> What's A Capstone Project?
+	-> Your capstone project is a new Flask project of your own choosing
+	-> It is a self-driven project, not a tutorial-based task
+
+-> Why Build A Capstone Project?
+	-> The capstone project will help solidify your knowledge and skills learned in the course
+	-> You will synthesise and apply everything you've learned to create something unique
+	-> This will also encourage personal learning quests, such as researching new topics
+	-> It’s a challenging and rewarding experience that prepares you for real-life development scenarios
+
+-> Halp?!
+	-> Don't worry, you’ve got this! You have gained a ton of Flask web development skills
+	-> If you’re working with a mentor, bounce ideas off them and seek feedback
+	-> Use resources like Discord to ask questions and share progress with the community
+	-> Pick a project that excites you to make it easier to stay motivated
+
+-> Python Flask Framework Capstone Project Theme
+	-> Choose a project that personally interests you for your capstone
+	-> If you have a webapp idea, now is the perfect time to work on it
+	-> Picking something you're passionate about will help you push through the tough moments
+	-> Focus on building the minimum viable product (MVP) first, and expand later
+
+-> Other Options
+	-> If you're unsure about your project, here are some ideas to inspire you:
+		-> Portfolio Site: Create a portfolio app to showcase your projects and contact details
+		-> Future-Job Projects: Build something that could help companies you're interested in
+		-> Clones: Build clones of popular websites like Twitter or others you enjoy
+
+-> Project Idea Lists On The Web
+	-> If you're still uncertain, here are some additional resources with project ideas:
+		-> Real Python's 13 Intermediate Python Projects (Web Section)
+		-> Pythonista Planet: 7 Flask Project Ideas for Beginners
+
+-> Summary: Python + Flask Capstone Project Overview
+	-> In this section, you learned about the capstone project concept
+		-> This project will apply your Flask skills to a real-world scenario without a tutorial
+	-> You recognised the importance of planning and problem-solving unique to your project
+	-> Support is available through mentors and communities like Discord for guidance
+	-> Choosing a project you are passionate about will help keep you motivated and encourage deeper learning
+	-> A list of inspirational ideas and resources was provided to help shape your project’s MVP

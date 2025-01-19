@@ -10,9 +10,6 @@ I saved course material as pdf files (.pdf extensions) and made notes on these (
 
 ![20 Notes Word Cloud Giff](https://github.com/user-attachments/assets/ea5d517d-9a8d-452f-8f92-843f961ae4a5)
 
-### Yellow
-Video notes were made in a txt format, contained in [16.9 Videos](https://github.com/franpanteli/CodingNomads-Flask-16-Performance-Optimisation/tree/main/16.9%20Videos). A [module quiz](https://github.com/franpanteli/CodingNomads-Flask-16-Performance-Optimisation/blob/main/16.10%20Quizzes/16.10%20Quiz%20Representing%20Content.pdf) was finally completed and passed. 
-
 ## To Clone This Repository
 ```
 git clone https://github.com/franpanteli/CodingNomads-Flask-20-Realtime-Updates.git

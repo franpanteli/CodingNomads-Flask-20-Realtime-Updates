@@ -1,55 +1,55 @@
--> Flask Capstone Checklist
-    -> This checklist outlines the requirements for your Flask capstone project to ensure you meet the graduation standard for course completion
+-> flask capstone checklist  
+    -> this checklist outlines the requirements for your flask capstone project to ensure you meet the graduation standard for course completion  
 
--> Overarching Flask Project Requirements
-    -> Your capstone should be a Flask web app with a fresh, custom design
-    -> Do not reuse code from earlier course projects
-    -> The project must be created in a separate GitHub repository
-    -> The repository must include a README file explaining how to set up, run, and use the project
-    -> Ensure your project features clean, organised code and thorough documentation
+-> overarching flask project requirements  
+    -> your capstone should be a flask web app with a fresh, custom design  
+    -> do not reuse code from earlier course projects  
+    -> the project must be created in a separate github repository  
+    -> the repository must include a readme file explaining how to set up, run, and use the project  
+    -> ensure your project features clean, organised code and thorough documentation  
 
--> Application Factory/Blueprints
-    -> Fully functional user interface (UI)
-        -> Allow users to register, log in, and use the app
-        -> Ensure all buttons and links are functional
-        -> Ensure images and resources load correctly
-    -> Unified user interface design
-        -> Consistent navigation, headers, etc., across all pages
-        -> Consistent CSS styling (Bootstrap, custom, or other)
+-> application factory/blueprints  
+    -> fully functional user interface (ui)  
+        -> allow users to register, log in, and use the app  
+        -> ensure all buttons and links are functional  
+        -> ensure images and resources load correctly  
+    -> unified user interface design  
+        -> consistent navigation, headers, etc., across all pages  
+        -> consistent css styling (bootstrap, custom, or other)  
 
--> Flask-SQLAlchemy Extension
-    -> The application must use a database (other than SQLite) with properly modelled relationships
+-> flask-sqlalchemy extension  
+    -> the application must use a database (other than sqlite) with properly modelled relationships  
 
--> Flask-Login Extension
-    -> Users must be able to create accounts and log in (ensure password hashing is implemented)
-    -> Include several user profiles with different authorisation levels (e.g., Guest, User, Admin)
+-> flask-login extension  
+    -> users must be able to create accounts and log in (ensure password hashing is implemented)  
+    -> include several user profiles with different authorisation levels (e.g., guest, user, admin)  
 
--> API
-    -> The application must function as a RESTful API
-        -> Should support GET and POST operations for most objects/data models
+-> api  
+    -> the application must function as a restful api  
+        -> should support get and post operations for most objects/data models  
 
--> Exception/Error Handling
-    -> Implement a custom error handler and error pages
+-> exception/error handling  
+    -> implement a custom error handler and error pages  
 
--> Deployment
-    -> The project should be deployed and accessible on a platform of your choice (e.g., Heroku, AWS, Azure)
+-> deployment  
+    -> the project should be deployed and accessible on a platform of your choice (e.g., heroku, aws, azure)  
 
--> Create a Capstone Project Readme
-    -> Your README should provide a clear description of your project
-        -> Include detailed instructions on how to set up, run, and use the project
-    -> A well-written README is essential, especially if you plan to showcase the project to potential employers
+-> create a capstone project readme  
+    -> your readme should provide a clear description of your project  
+        -> include detailed instructions on how to set up, run, and use the project  
+    -> a well-written readme is essential, especially if you plan to showcase the project to potential employers  
 
--> Summary
-    -> Flask Capstone Project Checklist Overview:
-        -> Custom, fresh Flask web app design
-        -> A separate GitHub repository with a README
-        -> Organised code and abundant documentation
-        -> Must include technical elements:
-            -> Application Factory/Blueprints
-            -> Flask-SQLAlchemy Extension
-            -> Flask-Login Extension
-            -> API functionality
-            -> Exception/Error handling
-            -> Deployment
+-> summary  
+    -> flask capstone project checklist overview:  
+        -> custom, fresh flask web app design  
+        -> a separate github repository with a readme  
+        -> organised code and abundant documentation  
+        -> must include technical elements:  
+            -> application factory/blueprints  
+            -> flask-sqlalchemy extension  
+            -> flask-login extension  
+            -> api functionality  
+            -> exception/error handling  
+            -> deployment  
 
-    -> Now you're ready to start building your Flask capstone project! Utilise the resources available to create a project that you're truly proud of.
+    -> now you're ready to start building your flask capstone project! utilise the resources available to create a project that you're truly proud of
